@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv>
+<tv generator-info-name="Arabic EPG">
 	<channel id="channel_1">
 		<display-name>channel_1</display-name>
 		<icon src="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
@@ -44,832 +44,824 @@
 		<display-name>channel_11</display-name>
 		<icon src="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" />
 	</channel>
-	<programme start="20231005235500 +0500" stop="20231005001500 +0500" channel="channel_1">
-		<title>beIN Action | E219</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005001500 +0500" stop="20231005020000 +0500" channel="channel_1">
-		<title>Iran vs South Korea - Basketball Men - Rank 5-8 - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005020000 +0500" stop="20231005040000 +0500" channel="channel_1">
-		<title>Philippines vs China - Rank 5-8 - Basketball Men - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005040000 +0500" stop="20231005051500 +0500" channel="channel_1">
-		<title>Kazakhstan vs Singapore - Preliminary Round - Water Polo Men - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005051500 +0500" stop="20231005063000 +0500" channel="channel_1">
-		<title>Thailand vs South Korea - Preliminary Round - Water Polo Men - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005063000 +0500" stop="20231005083000 +0500" channel="channel_1">
-		<title>Iran vs South Korea - Basketball Men - Rank 5-8 - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005083000 +0500" stop="20231005093000 +0500" channel="channel_1">
-		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005093000 +0500" stop="20231005114500 +0500" channel="channel_1">
-		<title>Philippines vs China - Rank 5-8 - Basketball Men - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005114500 +0500" stop="20231005130000 +0500" channel="channel_1">
-		<title>Women's Final - 3m Springboard - Diving  - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005130000 +0500" stop="20231005140000 +0500" channel="channel_1">
-		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005140000 +0500" stop="20231005200000 +0500" channel="channel_1">
-		<title>XIX Asian Games Hangzhou 2022 Studio</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005200000 +0500" stop="20231005213000 +0500" channel="channel_1">
-		<title>Thailand vs China - Preliminary Round - Water Polo Men - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005213000 +0500" stop="20231005224500 +0500" channel="channel_1">
-		<title>South Korea vs Iran - Preliminary Round - Water Polo Men - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005224500 +0500" stop="20231005001900 +0500" channel="channel_1">
+	<programme start="20231006224500 +0000" stop="20231006001900 +0000" channel="channel_1">
 		<title>Canoe-Sprint M/W Finals K1-1000M / C1-1000M   / C2-500M / K2-500M   - XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005000000 +0500" stop="20231005003000 +0500" channel="channel_2">
-		<title>AkhbarCOM - News</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005003000 +0500" stop="20231005004500 +0500" channel="channel_2">
-		<title>Where Are They ?</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005004500 +0500" stop="20231005010000 +0500" channel="channel_2">
-		<title>beIN Experiments - News</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005010000 +0500" stop="20231005011500 +0500" channel="channel_2">
-		<title>Al Jawla  - Live Studio @23:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005011500 +0500" stop="20231005013000 +0500" channel="channel_2">
-		<title>Stats - 4/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005013000 +0500" stop="20231005014500 +0500" channel="channel_2">
-		<title>Special Interview  - 4/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005014500 +0500" stop="20231005020000 +0500" channel="channel_2">
-		<title>The summary 3 - 4/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005020000 +0500" stop="20231005030000 +0500" channel="channel_2">
-		<title>The Issue of The Day</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005030000 +0500" stop="20231005040000 +0500" channel="channel_2">
-		<title>Al Hassad</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005040000 +0500" stop="20231005041500 +0500" channel="channel_2">
-		<title>Al Jawla  - Live Studio @02:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005041500 +0500" stop="20231005042900 +0500" channel="channel_2">
-		<title>Special Report - 4/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005042900 +0500" stop="20231005044600 +0500" channel="channel_2">
-		<title>Special Interview  - 4/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005044600 +0500" stop="20231005050000 +0500" channel="channel_2">
-		<title>Where Are They ?</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005050000 +0500" stop="20231005053000 +0500" channel="channel_2">
-		<title>News Bulletin - Live Studio @03:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005053000 +0500" stop="20231005060000 +0500" channel="channel_2">
-		<title>Ligue 1 - Part 1 2023-2024</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005060000 +0500" stop="20231005063000 +0500" channel="channel_2">
-		<title>AkhbarCOM - News</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005063000 +0500" stop="20231005064500 +0500" channel="channel_2">
-		<title>beIN Experiments - News</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005064500 +0500" stop="20231005070000 +0500" channel="channel_2">
-		<title>Do You Know "Next Generation" France</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005070000 +0500" stop="20231005080000 +0500" channel="channel_2">
-		<title>The Issue of The Day</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005080000 +0500" stop="20231005090000 +0500" channel="channel_2">
-		<title>Al Hassad</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005090000 +0500" stop="20231005091400 +0500" channel="channel_2">
-		<title>Al Jawla  - Live Studio @02:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005091400 +0500" stop="20231005092800 +0500" channel="channel_2">
-		<title>Special Report - 4/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005092800 +0500" stop="20231005094500 +0500" channel="channel_2">
-		<title>Special Interview  - 4/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005094500 +0500" stop="20231005095400 +0500" channel="channel_2">
-		<title>Women Show</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005095400 +0500" stop="20231005100000 +0500" channel="channel_2">
-		<title>Without Restrictions</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005100000 +0500" stop="20231005103000 +0500" channel="channel_2">
-		<title>News Bulletin - Live Studio @03:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005103000 +0500" stop="20231005110000 +0500" channel="channel_2">
-		<title>Ligue 1 - Part 2 2023-2024</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005110000 +0500" stop="20231005120000 +0500" channel="channel_2">
-		<title>The Issue of The Day</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005120000 +0500" stop="20231005165000 +0500" channel="channel_2">
-		<title>Special Coverage Asian Games Hangzhou 2022 (Asiad Time) - Live Studio @10:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005165000 +0500" stop="20231005170000 +0500" channel="channel_2">
-		<title>The summary 1 - 5/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005170000 +0500" stop="20231005180000 +0500" channel="channel_2">
-		<title>Three O'Clock bulletin - NEWS</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005180000 +0500" stop="20231005181500 +0500" channel="channel_2">
-		<title>Al Jawla  - Live Studio @16:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005181500 +0500" stop="20231005183000 +0500" channel="channel_2">
-		<title>Stats - 5/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005183000 +0500" stop="20231005184700 +0500" channel="channel_2">
-		<title>Special Interview  - 5/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005184700 +0500" stop="20231005190000 +0500" channel="channel_2">
-		<title>The summary 2 - 5/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005190000 +0500" stop="20231005193000 +0500" channel="channel_2">
-		<title>News Bulletin - @17:00  -</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005193000 +0500" stop="20231005200000 +0500" channel="channel_2">
-		<title>This Is Paris 2023/2024</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005200000 +0500" stop="20231005210000 +0500" channel="channel_2">
-		<title>News Bulletin - @18:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005210000 +0500" stop="20231005211500 +0500" channel="channel_2">
-		<title>Al Jawla  - Live Studio @19:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005211500 +0500" stop="20231005213000 +0500" channel="channel_2">
-		<title>Stats - 5/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005213000 +0500" stop="20231005214700 +0500" channel="channel_2">
-		<title>Special Interview  - 5/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005214700 +0500" stop="20231005220000 +0500" channel="channel_2">
-		<title>The summary 2 - 5/10/23</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005220000 +0500" stop="20231005223000 +0500" channel="channel_2">
-		<title>Sign Language Bulletin @20:00</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005223000 +0500" stop="20231005230000 +0500" channel="channel_2">
-		<title>This Is Paris 2023/2024</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005230000 +0500" stop="20231005000000 +0500" channel="channel_2">
-		<title>Nine O'Clock bulletin - NEWS</title>
-		<desc lang="ar">الأخبار الرياضية</desc>
-	</programme>
-	<programme start="20231005230000 +0500" stop="20231005030000 +0500" channel="channel_3">
-		<title>Newcastle United vs PSG - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005030000 +0500" stop="20231005040000 +0500" channel="channel_3">
-		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005040000 +0500" stop="20231005054000 +0500" channel="channel_3">
-		<title>Women's Final - 3m Springboard - Diving  - XIX Asian Games Hangzhou 2022</title>
+	<programme start="20231006001900 +0000" stop="20231006020000 +0000" channel="channel_1">
+		<title>Sport Climbing M/W speed Final - XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005054000 +0500" stop="20231005072000 +0500" channel="channel_3">
-		<title>Archery Compound Team W Quarterfinals - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005072000 +0500" stop="20231005074500 +0500" channel="channel_3">
-		<title>Archery Compound Team W Semifinal 1 - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005074500 +0500" stop="20231005081000 +0500" channel="channel_3">
-		<title>Archery Compound Team W Semifinal 2- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005081000 +0500" stop="20231005083500 +0500" channel="channel_3">
-		<title>Archery Compound Team W Bronze Medal- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005083500 +0500" stop="20231005090000 +0500" channel="channel_3">
-		<title>Archery Compound Team W Gold Medal- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005090000 +0500" stop="20231005100000 +0500" channel="channel_3">
-		<title>Archery Compound Team W Victory Ceremony- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005100000 +0500" stop="20231005103000 +0500" channel="channel_3">
-		<title>Mohammed Salah : Record Breaker</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005103000 +0500" stop="20231005121000 +0500" channel="channel_3">
-		<title>Archery Compound Team M Quarterfinals - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005121000 +0500" stop="20231005130000 +0500" channel="channel_3">
-		<title>Archery Compound Team M Semifinal 1 - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005130000 +0500" stop="20231005132500 +0500" channel="channel_3">
-		<title>Archery Compound Team M Semifinal 2- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005132500 +0500" stop="20231005135000 +0500" channel="channel_3">
-		<title>Archery Compound Team M Bronze Medal- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005135000 +0500" stop="20231005140000 +0500" channel="channel_3">
-		<title>Archery Compound Team M Gold Medal- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005140000 +0500" stop="20231005143000 +0500" channel="channel_3">
-		<title>Mutaz Barshim Defying Gravity #1 - Bein Originals</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005143000 +0500" stop="20231005153000 +0500" channel="channel_3">
-		<title>Shooting 10m Air Pistol Mixed Team Gold Medal Match - XIX Asian Games Hangzhou 2022 - SHO10</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005153000 +0500" stop="20231005180000 +0500" channel="channel_3">
-		<title>Bahrain vs Qatar - Gold Medal - Handball Men - XIX Asian Games Hangzhou 2022 HBL24</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005180000 +0500" stop="20231005190000 +0500" channel="channel_3">
-		<title>Archery Compound Team M Gold Medal- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005190000 +0500" stop="20231005193000 +0500" channel="channel_3">
-		<title>Bundesliga - Special 2022/2023 - Best of September 2023</title>
-		<desc lang="ar">الدوري الألماني لكرة اليد</desc>
-	</programme>
-	<programme start="20231005193000 +0500" stop="20231005203000 +0500" channel="channel_3">
-		<title>LaLiga Chronicles - Ep. 7</title>
-		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
-	</programme>
-	<programme start="20231005203000 +0500" stop="20231005235000 +0500" channel="channel_3">
-		<title>Olympique Marseille vs Brighton &amp; Hove Albion - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005235000 +0500" stop="20231005023000 +0500" channel="channel_3">
-		<title>Liverpool vs Union Saint-Gilloise - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005235500 +0500" stop="20231005020000 +0500" channel="channel_4">
-		<title>Porto vs Barcelona - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005020000 +0500" stop="20231005023000 +0500" channel="channel_4">
-		<title>Salzburg vs Real Sociedad - Mini Match - UEFA Champions League 2023/24</title>
-		<desc lang="ar">مباريات قصيرة</desc>
-	</programme>
-	<programme start="20231005023000 +0500" stop="20231005030000 +0500" channel="channel_4">
-		<title>Man Utd vs Galatasaray - Mini Match - UEFA Champions League 2023/24</title>
-		<desc lang="ar">مباريات قصيرة</desc>
-	</programme>
-	<programme start="20231005030000 +0500" stop="20231005060000 +0500" channel="channel_4">
-		<title>Athletics Various - SFs, Finals - XIX Asian Games Hangzhou 2022 - ATH12</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005060000 +0500" stop="20231005080000 +0500" channel="channel_4">
-		<title>Roller Skating  M/W  Inline Freestyle Women /  Speed Slalom Victory Ceremony - XIX Asian Games Hangz</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005080000 +0500" stop="20231005110000 +0500" channel="channel_4">
-		<title>Athletics Various - SFs, Finals - XIX Asian Games Hangzhou 2022 - ATH12</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005110000 +0500" stop="20231005120000 +0500" channel="channel_4">
-		<title>Squash - Mixed Doubles Final -India 2 vs Malaysia 1- XIX Asian Games Hangzhou 2022 SQU30</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005120000 +0500" stop="20231005130000 +0500" channel="channel_4">
-		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005130000 +0500" stop="20231005140000 +0500" channel="channel_4">
-		<title>Squash Women's Singles Finals - XIX Asian Games Hangzhou 2022 SQU31</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005140000 +0500" stop="20231005151500 +0500" channel="channel_4">
-		<title>Squash Men's Singles Final - XIX Asian Games Hangzhou 2022 SQU32</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005151500 +0500" stop="20231005161500 +0500" channel="channel_4">
-		<title>Squash Mixed Doubles / Women's Singles / Men's Singles Victory Ceremony - XIX Asian Games Hangzhou 2</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005161500 +0500" stop="20231005170000 +0500" channel="channel_4">
-		<title>Mutaz Barshim Defying Gravity #2 - Bein Originals</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005170000 +0500" stop="20231005200000 +0500" channel="channel_4">
-		<title>China vs Japan - Gold Medal - Basketball Women - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005200000 +0500" stop="20231005203000 +0500" channel="channel_4">
-		<title>The Confrontation- With or without VAR ?</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005203000 +0500" stop="20231005213500 +0500" channel="channel_4">
-		<title>UEL - UECL Magazine 2023/2024 - MD 2 Preview</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005213500 +0500" stop="20231005235000 +0500" channel="channel_4">
-		<title>Freiburg vs West Ham United - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005235000 +0500" stop="20231005020000 +0500" channel="channel_4">
-		<title>Roma vs Servette - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005233000 +0500" stop="20231005020000 +0500" channel="channel_5">
-		<title>Borussia Dortmund vs Milan - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005020000 +0500" stop="20231005040000 +0500" channel="channel_5">
-		<title>India x South Korea - Hockey Men Semifinal 1 - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005040000 +0500" stop="20231005070000 +0500" channel="channel_5">
-		<title>Athletics Marathon M/W Final - XIX Asian Games Hangzhou 2022 - ATH11</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005070000 +0500" stop="20231005073100 +0500" channel="channel_5">
-		<title>China vs Japan  Rugby Women Gold Medal - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005073100 +0500" stop="20231005075800 +0500" channel="channel_5">
-		<title>Osasuna vs Atletico Madrid - Mini Match - La Liga 2023/24</title>
-		<desc lang="ar">مباريات قصيرة</desc>
-	</programme>
-	<programme start="20231005075800 +0500" stop="20231005082400 +0500" channel="channel_5">
-		<title>Girona vs Real Madrid - Mini Match - La Liga 2023/24</title>
-		<desc lang="ar">مباريات قصيرة</desc>
-	</programme>
-	<programme start="20231005082400 +0500" stop="20231005090000 +0500" channel="channel_5">
-		<title>Hong Kong vs China - Gold Medal - Rugby Men - XIX Asian Games Hangzhou 2022 - RUG03</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005090000 +0500" stop="20231005113000 +0500" channel="channel_5">
-		<title>Laos vs Thailand -M Super Phase Baseball - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005113000 +0500" stop="20231005120000 +0500" channel="channel_5">
-		<title>History of the Asian Games</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005120000 +0500" stop="20231005145500 +0500" channel="channel_5">
-		<title>Weightlifting Men 96kg Group A - Preliminaries/Final - XIX Asian Games Hangzhou 2022 - WLF06</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005145500 +0500" stop="20231005153000 +0500" channel="channel_5">
-		<title>Archery Compound Team W Gold Medal- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005153000 +0500" stop="20231005160000 +0500" channel="channel_5">
-		<title>History of the Asian Games</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005160000 +0500" stop="20231005181500 +0500" channel="channel_5">
-		<title>Weightlifting Women 76kg Group A - XIX Asian Games Hangzhou 2022 - WLF06</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005181500 +0500" stop="20231005210500 +0500" channel="channel_5">
-		<title>Laos vs Thailand -M Super Phase Baseball - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005210500 +0500" stop="20231005213500 +0500" channel="channel_5">
-		<title>Archery Compound Team W Gold Medal- XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005213500 +0500" stop="20231005233000 +0500" channel="channel_5">
-		<title>Real Betis vs Sparta Praha - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005233000 +0500" stop="20231005235000 +0500" channel="channel_5">
-		<title>Do You Know "Next Generation" Spain</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005235000 +0500" stop="20231005020000 +0500" channel="channel_5">
-		<title>Villarreal vs Rennes - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005233000 +0500" stop="20231005020000 +0500" channel="channel_6">
-		<title>RB Leipzig vs Manchester City - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005020000 +0500" stop="20231005040000 +0500" channel="channel_6">
-		<title>South Korea vs Uzbekistan - Football Women - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005040000 +0500" stop="20231005050000 +0500" channel="channel_6">
-		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005050000 +0500" stop="20231005070000 +0500" channel="channel_6">
-		<title>RB Leipzig vs Manchester City - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005070000 +0500" stop="20231005130000 +0500" channel="channel_6">
-		<title>Cycling - Men's Road Race - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005130000 +0500" stop="20231005133000 +0500" channel="channel_6">
-		<title>Bronze Medal - 3x3 Basketball Men - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005133000 +0500" stop="20231005140000 +0500" channel="channel_6">
-		<title>Gold Medal - 3x3 Basketball Women - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005140000 +0500" stop="20231005173000 +0500" channel="channel_6">
-		<title>Wrestling M/W Greco-Roman M(97, 130kg), Freesetyle W(50, 53, 57kg) Bronze &amp; Gold Medals - XIX Asian</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005173000 +0500" stop="20231005191500 +0500" channel="channel_6">
-		<title>Inline Freestyle Mixed / Skating Slalom Pair - Final - Roller Skating - XIX Asian Games Hangzhou 202</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005191500 +0500" stop="20231005203000 +0500" channel="channel_6">
-		<title>Indonesia vs Myanmar - Men's Sepaktakr - Final -  XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005203000 +0500" stop="20231005210000 +0500" channel="channel_6">
-		<title>Inter vs Benfica - Mini Match - UEFA Champions League 2023/24</title>
-		<desc lang="ar">مباريات قصيرة</desc>
-	</programme>
-	<programme start="20231005210000 +0500" stop="20231005213500 +0500" channel="channel_6">
-		<title>Leipzig vs Man City - Mini Match - UEFA Champions League 2023/24</title>
-		<desc lang="ar">مباريات قصيرة</desc>
-	</programme>
-	<programme start="20231005213500 +0500" stop="20231005234500 +0500" channel="channel_6">
-		<title>AEK Athens vs Ajax - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005234500 +0500" stop="20231005020000 +0500" channel="channel_6">
-		<title>Toulouse vs LASK - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005233000 +0500" stop="20231005020000 +0500" channel="channel_7">
-		<title>Celtic vs Lazio - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005020000 +0500" stop="20231005040000 +0500" channel="channel_7">
-		<title>Hong Kong x Japan - Men's Football - XIX Asian Games Hangzhou 2022 FBL57</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005040000 +0500" stop="20231005060000 +0500" channel="channel_7">
-		<title>Celtic vs Lazio - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005060000 +0500" stop="20231005091500 +0500" channel="channel_7">
-		<title>Dragon Boat -500m Straight Race Heats, SFs, Minor Final, F - XIX Asian Games Hangzhou 2022 DGB02</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005091500 +0500" stop="20231005100000 +0500" channel="channel_7">
-		<title>Hong Kong vs China - Gold Medal - Rugby Men - XIX Asian Games Hangzhou 2022 - RUG03</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005100000 +0500" stop="20231005103000 +0500" channel="channel_7">
-		<title>Bundesliga - Special 2022/2023 - Ultimate No.9 - Harry Kane</title>
-		<desc lang="ar">الدوري الألماني لكرة اليد</desc>
-	</programme>
-	<programme start="20231005103000 +0500" stop="20231005153000 +0500" channel="channel_7">
-		<title>Karate - Kumite M (-75kg) W(-68kg) - XIX Asian Games Hangzhou 2022 KTE01</title>
-		<desc lang="ar">الكاراتيه</desc>
-	</programme>
-	<programme start="20231005153000 +0500" stop="20231005160000 +0500" channel="channel_7">
-		<title>Copenhagen vs Bayern Munich - Mini Match - UEFA Champions League 2023/24</title>
-		<desc lang="ar">مباريات قصيرة</desc>
-	</programme>
-	<programme start="20231005160000 +0500" stop="20231005193000 +0500" channel="channel_7">
-		<title>Boxing M (51kg, 57kg, 80kg, +92kg) W (57kg, 66kg) - XIX Asian Games Hangzhou 2022 - BOX21</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005193000 +0500" stop="20231005210500 +0500" channel="channel_7">
-		<title>South Korea vs Japan  -Gold Medal - Handball Women - XIX Asian Games Hangzhou 2022 HBL23</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005210500 +0500" stop="20231005213500 +0500" channel="channel_7">
-		<title>Hong Kong vs China - Gold Medal - Rugby Men - XIX Asian Games Hangzhou 2022 - RUG03</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005213500 +0500" stop="20231005235000 +0500" channel="channel_7">
-		<title>Sporting CP vs Atalanta - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005235000 +0500" stop="20231005020000 +0500" channel="channel_7">
-		<title>Molde vs Bayer Leverkusen - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005233000 +0500" stop="20231005020300 +0500" channel="channel_8">
-		<title>Crvena Zvezda vs Young Boys - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005020300 +0500" stop="20231005044500 +0500" channel="channel_8">
-		<title>Wrestling (M) Greco-Roman M(60kg, 67kg, 77kg, 87kg) Bronze &amp; Gold Medals - XIX Asian Games Hangzhou</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005044500 +0500" stop="20231005052000 +0500" channel="channel_8">
-		<title>Napoli vs Real Madrid - Mini Match - UEFA Champions League 2023/24</title>
-		<desc lang="ar">مباريات قصيرة</desc>
-	</programme>
-	<programme start="20231005052000 +0500" stop="20231005072500 +0500" channel="channel_8">
-		<title>Internacional (BRA) vs Fluminense (BRA) - Copa Libertadores -2023 - Semi Finals 1st Leg</title>
-		<desc lang="ar">كأس ليبرتادوريس</desc>
-	</programme>
-	<programme start="20231005072500 +0500" stop="20231005090000 +0500" channel="channel_8">
-		<title>Jordan vs Chinese Taipei - Basketball Men - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005090000 +0500" stop="20231005110000 +0500" channel="channel_8">
-		<title>Crvena Zvezda vs Young Boys - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005110000 +0500" stop="20231005120000 +0500" channel="channel_8">
-		<title>Secret of Success : Dr Mohammed Al Maahdheed</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005120000 +0500" stop="20231005143000 +0500" channel="channel_8">
-		<title>Ju-jitsu - M (62kg, 69kg) W (48kg) Bronze &amp; Gold Medals - XIX Asian Games Hangzhou 2022 JJI02</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005143000 +0500" stop="20231005153000 +0500" channel="channel_8">
-		<title>Women's Final - 3m Springboard - Diving  - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005153000 +0500" stop="20231005190000 +0500" channel="channel_8">
+	<programme start="20231006020000 +0000" stop="20231006051500 +0000" channel="channel_1">
 		<title>Hong Kong vs Philippines - Men's  Super Phase Baseball - XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005190000 +0500" stop="20231005193000 +0500" channel="channel_8">
-		<title>Hong Kong vs China - Gold Medal - Rugby Men - XIX Asian Games Hangzhou 2022 - RUG03</title>
+	<programme start="20231006051500 +0000" stop="20231006080000 +0000" channel="channel_1">
+		<title>Laos vs Thailand -M Super Phase Baseball - XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005193000 +0500" stop="20231005213500 +0500" channel="channel_8">
-		<title>Bahrain vs Qatar - Gold Medal - Handball Men - XIX Asian Games Hangzhou 2022 HBL24</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005213500 +0500" stop="20231005235000 +0500" channel="channel_8">
-		<title>TSC Backa Topola vs Olympiakos Piraeus - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005235000 +0500" stop="20231005020000 +0500" channel="channel_8">
-		<title>Aston Villa vs Zrinjski - Europa Conference League 2023/24 - MD2</title>
+	<programme start="20231006080000 +0000" stop="20231006083000 +0000" channel="channel_1">
+		<title>Sports Clinic : Injuries of the knee, the danger start</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231005223000 +0500" stop="20231005013000 +0500" channel="channel_9">
-		<title>Jannik Sinner (ITA) vs Daniil Medvedev –  Final - China Open - Beijing 2023 - ATP 500</title>
-		<desc lang="ar">كرة التنس - فئة 500</desc>
-	</programme>
-	<programme start="20231005013000 +0500" stop="20231005020000 +0500" channel="channel_9">
-		<title>Gabriela Dabrowski/ Erin Routliffe vs Vera Zvonareva/ Laura Siegemund - Women's Doubles Final Mini M</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005020000 +0500" stop="20231005053000 +0500" channel="channel_9">
-		<title>Alexander Zverev (GER) vs Roman Safiullin - Final - Chengdu Open Chengdu 2023, China - ATP 250</title>
-		<desc lang="ar">تنس -  فئة 250</desc>
-	</programme>
-	<programme start="20231005053000 +0500" stop="20231005080700 +0500" channel="channel_9">
-		<title>Jannik Sinner (ITA) vs Daniil Medvedev –  Final - China Open - Beijing 2023 - ATP 500</title>
-		<desc lang="ar">كرة التنس - فئة 500</desc>
-	</programme>
-	<programme start="20231005080700 +0500" stop="20231005090000 +0500" channel="channel_9">
-		<title>Victoria</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005090000 +0500" stop="20231005093000 +0500" channel="channel_9">
-		<title>Daniil Medvedev vs Novak Djokovic - Final Mini Match Tennis US Open 20231</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005093000 +0500" stop="20231005113000 +0500" channel="channel_9">
-		<title>Philip Sekulic (AUS) vs Lorenzo Sonego (ITA) - ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005113000 +0500" stop="20231005133000 +0500" channel="channel_9">
-		<title>Pavel Kotov vs Arthur Fils (FRA) - ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005133000 +0500" stop="20231005153000 +0500" channel="channel_9">
-		<title>Alexei Popyrin (AUS) vs Matteo Arnaldi (ITA) ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005153000 +0500" stop="20231005184000 +0500" channel="channel_9">
-		<title>Diego Schwartzman (ARG) vs Luca Van Assche (FRA) ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005184000 +0500" stop="20231005213500 +0500" channel="channel_9">
-		<title>Yosuke Watanuki (JPN) vs Juncheng Shang (CHN) ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005213500 +0500" stop="20231005235000 +0500" channel="channel_9">
-		<title>Aris Limassol vs Rangers - UEFA Europa League 2023/24 - Matchday 2</title>
-		<desc lang="ar">الدوري الأوروبي</desc>
-	</programme>
-	<programme start="20231005235000 +0500" stop="20231005020000 +0500" channel="channel_9">
-		<title>Fiorentina vs Ferencváros - Europa Conference League 2023/24 - MD2</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005234500 +0500" stop="20231005020100 +0500" channel="channel_10">
-		<title>Equestrian Jumping - 1st round, Team Comp. &amp; Individual Qual M/W - XIX Asian Games Hangzhou 2022 - E</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005020100 +0500" stop="20231005033500 +0500" channel="channel_10">
-		<title>China x South Korea - Women's Volleyball - XIX Asian Games Hangzhou 2022 VVO07</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005033500 +0500" stop="20231005040000 +0500" channel="channel_10">
-		<title>World Sailing Show 2023</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005040000 +0500" stop="20231005050000 +0500" channel="channel_10">
-		<title>Indonesia vs Myanmar - Men's Sepaktakr - Final -  XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005050000 +0500" stop="20231005070000 +0500" channel="channel_10">
-		<title>Antwerp vs Shakhtar Donetsk - UEFA Champions League 2023/24 / MD2</title>
-		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
-	</programme>
-	<programme start="20231005070000 +0500" stop="20231005110000 +0500" channel="channel_10">
-		<title>Wrestling M/W Greco-Roman M(97, 130kg), Freesetyle W(50, 53, 57kg) Qualification &amp; Repechages - XIX</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005110000 +0500" stop="20231005120000 +0500" channel="channel_10">
+	<programme start="20231006083000 +0000" stop="20231006093000 +0000" channel="channel_1">
 		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231005120000 +0500" stop="20231005133000 +0500" channel="channel_10">
-		<title>Iran vs Singapore - Water Polo Men - XIX Asian Games Hangzhou 2022</title>
+	<programme start="20231006093000 +0000" stop="20231006104500 +0000" channel="channel_1">
+		<title>Kazakhstan vs Singapore - Preliminary Round - Water Polo Men - XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005133000 +0500" stop="20231005144500 +0500" channel="channel_10">
-		<title>South Korea vs Kazakhstan - Water Polo Men - XIX Asian Games Hangzhou 2022</title>
+	<programme start="20231006104500 +0000" stop="20231006111000 +0000" channel="channel_1">
+		<title>Archery Recurve Team W Bronze Medal- XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005144500 +0500" stop="20231005160000 +0500" channel="channel_10">
-		<title>Indonesia vs Myanmar - Men's Sepaktakr - Final -  XIX Asian Games Hangzhou 2022</title>
+	<programme start="20231006111000 +0000" stop="20231006113500 +0000" channel="channel_1">
+		<title>Archery Recurve Team W Gold Medal- XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005160000 +0500" stop="20231005173000 +0500" channel="channel_10">
-		<title>China vs Hong Kong - Water Polo Men - XIX Asian Games Hangzhou 2022</title>
+	<programme start="20231006113500 +0000" stop="20231006130300 +0000" channel="channel_1">
+		<title>Japan vs  Kuwait - Bronze Medal - Handball Men - XIX Asian Games Hangzhou 2022 HBL23</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005173000 +0500" stop="20231005190000 +0500" channel="channel_10">
-		<title>Thailand vs Japan - Water Polo Men - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231005190000 +0500" stop="20231005193000 +0500" channel="channel_10">
-		<title>Fast Zone 2023</title>
+	<programme start="20231006130300 +0000" stop="20231006140000 +0000" channel="channel_1">
+		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231005193000 +0500" stop="20231005203000 +0500" channel="channel_10">
-		<title>NBA Journey  Kevin Garnett - NBA Original Programming 2019/2020</title>
+	<programme start="20231006140000 +0000" stop="20231006200000 +0000" channel="channel_1">
+		<title>XIX Asian Games Hangzhou 2022 Studio</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231005203000 +0500" stop="20231005235000 +0500" channel="channel_10">
-		<title>Dallas Mavericks vs Minnesota Timberwolves - NBA ABU DHABI GAMES - 2023</title>
-		<desc lang="ar">الدوري الأميركي لكرة السلة</desc>
+	<programme start="20231006200000 +0000" stop="20231006214500 +0000" channel="channel_1">
+		<title>Bangladesh vs Oman - Classification 7-8 - Hockey Men - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005235000 +0500" stop="20231005020000 +0500" channel="channel_10">
+	<programme start="20231006214500 +0000" stop="20231006232800 +0000" channel="channel_1">
+		<title>Pakistan vs Malyasia - Classification 5-6 - Hockey Men - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006232800 +0000" stop="20231006000000 +0000" channel="channel_1">
+		<title>China vs Japan  Rugby Women Gold Medal - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006000000 +0000" stop="20231006010000 +0000" channel="channel_2">
+		<title>Numbers - News</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006010000 +0000" stop="20231006011500 +0000" channel="channel_2">
+		<title>Al Jawla  - Live Studio @23:00</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006011500 +0000" stop="20231006013000 +0000" channel="channel_2">
+		<title>Stats - 5/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006013000 +0000" stop="20231006014700 +0000" channel="channel_2">
+		<title>Special Interview  - 5/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006014700 +0000" stop="20231006020000 +0000" channel="channel_2">
+		<title>The summary 3 - 5/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006020000 +0000" stop="20231006030000 +0000" channel="channel_2">
+		<title>The Issue of The Day</title>
+		<desc lang="ar">الأخبار الرياضية</desc>
+	</programme>
+	<programme start="20231006030000 +0000" stop="20231006040000 +0000" channel="channel_2">
+		<title>Al Hassad</title>
+		<desc lang="ar">الأخبار الرياضية</desc>
+	</programme>
+	<programme start="20231006040000 +0000" stop="20231006041500 +0000" channel="channel_2">
+		<title>Al Jawla  - Live Studio @02:00</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006041500 +0000" stop="20231006043000 +0000" channel="channel_2">
+		<title>Special Report - 5/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006043000 +0000" stop="20231006044700 +0000" channel="channel_2">
+		<title>Special Interview  - 5/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006044700 +0000" stop="20231006050000 +0000" channel="channel_2">
+		<title>beIN Experiments - News</title>
+		<desc lang="ar">الأخبار الرياضية</desc>
+	</programme>
+	<programme start="20231006050000 +0000" stop="20231006053000 +0000" channel="channel_2">
+		<title>News Bulletin - Live Studio @03:00</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006053000 +0000" stop="20231006060000 +0000" channel="channel_2">
+		<title>This Is Paris 2023/2024</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006060000 +0000" stop="20231006070000 +0000" channel="channel_2">
+		<title>Numbers - News</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006070000 +0000" stop="20231006080000 +0000" channel="channel_2">
+		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006080000 +0000" stop="20231006090000 +0000" channel="channel_2">
+		<title>Al Hassad</title>
+		<desc lang="ar">الأخبار الرياضية</desc>
+	</programme>
+	<programme start="20231006090000 +0000" stop="20231006091500 +0000" channel="channel_2">
+		<title>Al Jawla  - Live Studio @02:00</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006091500 +0000" stop="20231006093000 +0000" channel="channel_2">
+		<title>Special Report - 5/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006093000 +0000" stop="20231006094700 +0000" channel="channel_2">
+		<title>Special Interview  - 5/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006094700 +0000" stop="20231006100000 +0000" channel="channel_2">
+		<title>Where Are They ?</title>
+		<desc lang="ar">الأخبار الرياضية</desc>
+	</programme>
+	<programme start="20231006100000 +0000" stop="20231006103000 +0000" channel="channel_2">
+		<title>News Bulletin - Live Studio @03:00</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006103000 +0000" stop="20231006110000 +0000" channel="channel_2">
+		<title>This Is Paris 2023/2024</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006110000 +0000" stop="20231006120000 +0000" channel="channel_2">
+		<title>The Issue of The Day</title>
+		<desc lang="ar">الأخبار الرياضية</desc>
+	</programme>
+	<programme start="20231006120000 +0000" stop="20231006161500 +0000" channel="channel_2">
+		<title>Special Coverage Asian Games Hangzhou 2022 (Asiad Time) - Live Studio @10:00</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006161500 +0000" stop="20231006163000 +0000" channel="channel_2">
+		<title>Special Report - 5/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006163000 +0000" stop="20231006190000 +0000" channel="channel_2">
+		<title>CAF Champions League and Confederation Cup Draw</title>
+		<desc lang="ar">الأخبار الرياضية</desc>
+	</programme>
+	<programme start="20231006190000 +0000" stop="20231006191500 +0000" channel="channel_2">
+		<title>News Bulletin - @17:00  -</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006191500 +0000" stop="20231006193000 +0000" channel="channel_2">
+		<title>Special Report - 5/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006193000 +0000" stop="20231006201500 +0000" channel="channel_2">
+		<title>FIFA Beach Soccer World Cup UAE 2024™ Draw</title>
+		<desc lang="ar">الأخبار الرياضية</desc>
+	</programme>
+	<programme start="20231006201500 +0000" stop="20231006210000 +0000" channel="channel_2">
+		<title>News Bulletin - @18:00</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006210000 +0000" stop="20231006211500 +0000" channel="channel_2">
+		<title>Al Jawla  - Live Studio @19:00</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006211500 +0000" stop="20231006213000 +0000" channel="channel_2">
+		<title>Stats - 6/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006213000 +0000" stop="20231006214500 +0000" channel="channel_2">
+		<title>Special Interview  - 6/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006214500 +0000" stop="20231006220000 +0000" channel="channel_2">
+		<title>The summary 2 - 6/10/23</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006220000 +0000" stop="20231006223000 +0000" channel="channel_2">
+		<title>Sign Language Bulletin @20:00</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006223000 +0000" stop="20231006230000 +0000" channel="channel_2">
+		<title>La Liga World - Ep.9</title>
+		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
+	</programme>
+	<programme start="20231006230000 +0000" stop="20231006000000 +0000" channel="channel_2">
+		<title>Nine O'Clock bulletin - NEWS</title>
+		<desc lang="ar">الأخبار الرياضية</desc>
+	</programme>
+	<programme start="20231006235000 +0000" stop="20231006023000 +0000" channel="channel_3">
+		<title>Liverpool vs Union Saint-Gilloise - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006023000 +0000" stop="20231006033000 +0000" channel="channel_3">
+		<title>UEFA Highlights MD2</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006033000 +0000" stop="20231006043000 +0000" channel="channel_3">
+		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006043000 +0000" stop="20231006054000 +0000" channel="channel_3">
+		<title>Diving 3m Springboard W - XIX Asian Games Hangzhou 2022  DIV06</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006054000 +0000" stop="20231006072000 +0000" channel="channel_3">
+		<title>Archery Recurve Team W Quarterfinals - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006072000 +0000" stop="20231006074500 +0000" channel="channel_3">
+		<title>Archery Recurve Team W Semifinal 1 - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006074500 +0000" stop="20231006081000 +0000" channel="channel_3">
+		<title>Archery Recurve Team W Semifinal 2 - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006081000 +0000" stop="20231006083500 +0000" channel="channel_3">
+		<title>Archery Recurve Team W Bronze Medal- XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006083500 +0000" stop="20231006090000 +0000" channel="channel_3">
+		<title>Archery Recurve Team W Gold Medal- XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006090000 +0000" stop="20231006100000 +0000" channel="channel_3">
+		<title>Archery Recurve Team W Victory Ceremony- XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006100000 +0000" stop="20231006110000 +0000" channel="channel_3">
+		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006110000 +0000" stop="20231006130000 +0000" channel="channel_3">
+		<title>Bahrain vs Qatar - Gold Medal - Handball Men - XIX Asian Games Hangzhou 2022 HBL24</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006130000 +0000" stop="20231006150000 +0000" channel="channel_3">
+		<title>Iran vs Saudi Arabia Classification 5-6 - Basketball Men - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006150000 +0000" stop="20231006163000 +0000" channel="channel_3">
+		<title>Squash Women's Singles Finals - XIX Asian Games Hangzhou 2022 SQU31</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006163000 +0000" stop="20231006193000 +0000" channel="channel_3">
+		<title>Jordan vs Philippines - Gold Medal- Basketball Men - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006193000 +0000" stop="20231006200000 +0000" channel="channel_3">
+		<title>Special interview with Amro Al Hamad</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006200000 +0000" stop="20231006203000 +0000" channel="channel_3">
+		<title>LaLiga Chronicles - Ep. 7</title>
+		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
+	</programme>
+	<programme start="20231006203000 +0000" stop="20231006210000 +0000" channel="channel_3">
+		<title>La Liga World - Ep.9</title>
+		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
+	</programme>
+	<programme start="20231006210000 +0000" stop="20231006213000 +0000" channel="channel_3">
+		<title>EPL Netbusters 2023/2024</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006213000 +0000" stop="20231006220000 +0000" channel="channel_3">
+		<title>La Liga Show - Ep. 9</title>
+		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
+	</programme>
+	<programme start="20231006220000 +0000" stop="20231006223000 +0000" channel="channel_3">
+		<title>Bundesliga - Preview 2023/2024</title>
+		<desc lang="ar">الدوري الألماني لكرة اليد</desc>
+	</programme>
+	<programme start="20231006223000 +0000" stop="20231006230000 +0000" channel="channel_3">
+		<title>Ligue 1 Weekly Preview - 2023/2024</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006230000 +0000" stop="20231006234500 +0000" channel="channel_3">
+		<title>UEFA Champions League 2023/24 - BEST OF UEFA CL MD2</title>
+		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
+	</programme>
+	<programme start="20231006234500 +0000" stop="20231006023000 +0000" channel="channel_3">
+		<title>Japan vs North Korea - Gold Medal - Women's Football - XIX Asian Games Hangzhou 2022 FBL56</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006235000 +0000" stop="20231006020000 +0000" channel="channel_4">
+		<title>Roma vs Servette - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006020000 +0000" stop="20231006040000 +0000" channel="channel_4">
+		<title>China vs Japan - Gold Medal - Basketball Women - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006040000 +0000" stop="20231006044500 +0000" channel="channel_4">
+		<title>Squash Mixed Doubles / Women's Singles / Men's Singles Victory Ceremony - XIX Asian Games Hangzhou 2</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006044500 +0000" stop="20231006053000 +0000" channel="channel_4">
+		<title>Mutaz Barshim Defying Gravity #1 - Bein Originals</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006053000 +0000" stop="20231006081500 +0000" channel="channel_4">
+		<title>Marathon Swimming 10km Women Final - XIX Asian Games Hangzhou 2022 OWS01</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006081500 +0000" stop="20231006103000 +0000" channel="channel_4">
+		<title>China vs Japan - Gold Medal - Basketball Women - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006103000 +0000" stop="20231006110000 +0000" channel="channel_4">
+		<title>Sports Clinic : Injuries of the knee, the danger start</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006110000 +0000" stop="20231006140000 +0000" channel="channel_4">
+		<title>M/W Canoe-Slalom - C1 / K1- Final - Canoe-Sprint - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006140000 +0000" stop="20231006173500 +0000" channel="channel_4">
+		<title>Wrestling M/W Greco-Roman M(57, 65kg), Freesetyle W(62, 68, 76kg) Bronze &amp; Gold Medals - XIX Asian G</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006173500 +0000" stop="20231006210000 +0000" channel="channel_4">
+		<title>Men's Sport Climbing Boulder &amp; Lead Final - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006210000 +0000" stop="20231006233000 +0000" channel="channel_4">
+		<title>Ju-jitsu M (77kg) W (52kg, 57kg) M/W Bronze &amp; Gold Medals - XIX Asian Games Hangzhou 2022 JJI04</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006233000 +0000" stop="20231006235500 +0000" channel="channel_4">
+		<title>The Confrontation- With or without VAR ?</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006235500 +0000" stop="20231006020000 +0000" channel="channel_4">
+		<title>Birmingham vs West Brom - EFL - English Football League - Championship 2023/24</title>
+		<desc lang="ar">دوري البطولة الإنجليزية - الدرجة الأولى</desc>
+	</programme>
+	<programme start="20231006235000 +0000" stop="20231006020000 +0000" channel="channel_5">
+		<title>Villarreal vs Rennes - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006020000 +0000" stop="20231006034700 +0000" channel="channel_5">
+		<title>Lens vs Arsenal - UEFA Champions League 2023/24 / MD2</title>
+		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
+	</programme>
+	<programme start="20231006034700 +0000" stop="20231006053000 +0000" channel="channel_5">
+		<title>Borussia Dortmund vs Milan - UEFA Champions League 2023/24 / MD2</title>
+		<desc lang="ar">دوري أبطال أوروبا لكرة القدم</desc>
+	</programme>
+	<programme start="20231006053000 +0000" stop="20231006060000 +0000" channel="channel_5">
+		<title>The Great Powers in Asia</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006060000 +0000" stop="20231006093000 +0000" channel="channel_5">
+		<title>Dragon Boat 1000m Straight Race M/W Heats, Repechages, SFs,, F - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006093000 +0000" stop="20231006100200 +0000" channel="channel_5">
+		<title>China vs Japan  Rugby Women Gold Medal - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006100200 +0000" stop="20231006102900 +0000" channel="channel_5">
+		<title>Hong Kong vs China - Gold Medal - Rugby Men - XIX Asian Games Hangzhou 2022 - RUG03</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006102900 +0000" stop="20231006110000 +0000" channel="channel_5">
+		<title>Asian Sports disciplines</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006110000 +0000" stop="20231006120000 +0000" channel="channel_5">
+		<title>Roller Skating Artistic Single Free - Short Program W Final - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006120000 +0000" stop="20231006143000 +0000" channel="channel_5">
+		<title>Ju-jitsu M (77kg) W (52kg, 57kg) M/W Bronze &amp; Gold Medals - XIX Asian Games Hangzhou 2022 JJI04</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006143000 +0000" stop="20231006163000 +0000" channel="channel_5">
+		<title>China vs Uzbekistan - Bronze Medal - Women's Football - XIX Asian Games Hangzhou 2022 FBL55</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006163000 +0000" stop="20231006170000 +0000" channel="channel_5">
+		<title>Archery Recurve Team M Gold Medal- XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006170000 +0000" stop="20231006190000 +0000" channel="channel_5">
+		<title>Japan vs North Korea - Gold Medal - Women's Football - XIX Asian Games Hangzhou 2022 FBL56</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006190000 +0000" stop="20231006203000 +0000" channel="channel_5">
+		<title>Roller Skating Artistic Single Free - Short Program W Final - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006203000 +0000" stop="20231006233000 +0000" channel="channel_5">
+		<title>Jordan vs Philippines - Gold Medal- Basketball Men - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006233000 +0000" stop="20231006235500 +0000" channel="channel_5">
+		<title>The Confrontation - EPL vs La Liga</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006235500 +0000" stop="20231006020000 +0000" channel="channel_5">
+		<title>Athletic Bilbao vs  Almeria - LaLiga 2023/2024 Week 9</title>
+		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
+	</programme>
+	<programme start="20231006234500 +0000" stop="20231006020000 +0000" channel="channel_6">
+		<title>Toulouse vs LASK - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006020000 +0000" stop="20231006070000 +0000" channel="channel_6">
+		<title>Cycling - Men's Road Race - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006070000 +0000" stop="20231006094000 +0000" channel="channel_6">
+		<title>Wrestling M/W Greco-Roman M(97, 130kg), Freesetyle W(50, 53, 57kg) Bronze &amp; Gold Medals - XIX Asian</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006094000 +0000" stop="20231006101000 +0000" channel="channel_6">
+		<title>Gold Medal - 3x3 Basketball Women - XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006101000 +0000" stop="20231006120000 +0000" channel="channel_6">
+		<title>AEK Athens vs Ajax - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006120000 +0000" stop="20231006143000 +0000" channel="channel_6">
+		<title>Weightlifting Men 109kg Group A - XIX Asian Games Hangzhou 2022 - WLF06</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006143000 +0000" stop="20231006163000 +0000" channel="channel_6">
+		<title>Toulouse vs LASK - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006163000 +0000" stop="20231006181500 +0000" channel="channel_6">
+		<title>Inline Freestyle Mixed / Skating Slalom Pair - Final - Roller Skating - XIX Asian Games Hangzhou 202</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006181500 +0000" stop="20231006201500 +0000" channel="channel_6">
+		<title>AEK Athens vs Ajax - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006201500 +0000" stop="20231006220200 +0000" channel="channel_6">
+		<title>Toulouse vs LASK - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006220200 +0000" stop="20231006223000 +0000" channel="channel_6">
+		<title>Newcastle vs PSG - Mini Match - UEFA Champions League 2023/24</title>
+		<desc lang="ar">مباريات قصيرة</desc>
+	</programme>
+	<programme start="20231006223000 +0000" stop="20231006230000 +0000" channel="channel_6">
+		<title>This Is Paris 2023/2024</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006230000 +0000" stop="20231006231500 +0000" channel="channel_6">
+		<title>The Confrontation- With or without VAR ?</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006231500 +0000" stop="20231006234500 +0000" channel="channel_6">
+		<title>Ligue 1 Weekly Preview - 2023/2024</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006234500 +0000" stop="20231006020000 +0000" channel="channel_6">
+		<title>Strasbourg vs Nantes - French Ligue 1 2023/2024 Week 8</title>
+		<desc lang="ar">الدوري الفرنسي</desc>
+	</programme>
+	<programme start="20231006235000 +0000" stop="20231006020000 +0000" channel="channel_7">
+		<title>Molde vs Bayer Leverkusen - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006020000 +0000" stop="20231006040000 +0000" channel="channel_7">
+		<title>Sporting CP vs Atalanta - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006040000 +0000" stop="20231006060000 +0000" channel="channel_7">
+		<title>Molde vs Bayer Leverkusen - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006060000 +0000" stop="20231006080000 +0000" channel="channel_7">
+		<title>Equestrian Jumping - 1st round, Individual Final M/W - XIX Asian Games Hangzhou 2022 - EQU09</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006080000 +0000" stop="20231006100000 +0000" channel="channel_7">
+		<title>Roma vs Servette - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006100000 +0000" stop="20231006110000 +0000" channel="channel_7">
+		<title>UEFA Highlights MD2</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006110000 +0000" stop="20231006120000 +0000" channel="channel_7">
+		<title>Hong Kong vs China - Gold Medal - Rugby Men - XIX Asian Games Hangzhou 2022 - RUG03</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006120000 +0000" stop="20231006153000 +0000" channel="channel_7">
+		<title>Equestrian Jumping - 2nd round, Individual Final M/W - XIX Asian Games Hangzhou 2022 - EQU10</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006153000 +0000" stop="20231006175500 +0000" channel="channel_7">
+		<title>India vs Japan - Gold Medal - Hockey Men - XIX Asian Games Hangzhou 2022 HOC25</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006175500 +0000" stop="20231006193000 +0000" channel="channel_7">
+		<title>Japan vs  Kuwait - Bronze Medal - Handball Men - XIX Asian Games Hangzhou 2022 HBL23</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006193000 +0000" stop="20231006213000 +0000" channel="channel_7">
+		<title>Bahrain vs Qatar - Gold Medal - Handball Men - XIX Asian Games Hangzhou 2022 HBL24</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006213000 +0000" stop="20231006220000 +0000" channel="channel_7">
+		<title>Bundesliga - Special 2022/2023 - Ultimate No.9 - Harry Kane</title>
+		<desc lang="ar">الدوري الألماني لكرة اليد</desc>
+	</programme>
+	<programme start="20231006220000 +0000" stop="20231006223000 +0000" channel="channel_7">
+		<title>Bundesliga - Special 2022/2023 - Best of September 2023</title>
+		<desc lang="ar">الدوري الألماني لكرة اليد</desc>
+	</programme>
+	<programme start="20231006223000 +0000" stop="20231006230000 +0000" channel="channel_7">
+		<title>Bundesliga - Preview 2023/2024</title>
+		<desc lang="ar">الدوري الألماني لكرة اليد</desc>
+	</programme>
+	<programme start="20231006230000 +0000" stop="20231006232500 +0000" channel="channel_7">
+		<title>Do You Know "Legend" Franz Beckenbauer</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006232500 +0000" stop="20231006013000 +0000" channel="channel_7">
+		<title>Borussia M'gladbach vs Mainz - German Bundesliga 2023/2024 Week 7</title>
+		<desc lang="ar">الدوري الألماني لكرة القدم</desc>
+	</programme>
+	<programme start="20231006235000 +0000" stop="20231006020000 +0000" channel="channel_8">
+		<title>Aston Villa vs Zrinjski - Europa Conference League 2023/24 - MD2</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006020000 +0000" stop="20231006030000 +0000" channel="channel_8">
+		<title>Secret of Success : Dr Mohammed Al Maahdheed</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006030000 +0000" stop="20231006044300 +0000" channel="channel_8">
+		<title>TSC Backa Topola vs Olympiakos Piraeus - UEFA Europa League 2023/24 - Matchday 2</title>
+		<desc lang="ar">الدوري الأوروبي</desc>
+	</programme>
+	<programme start="20231006044300 +0000" stop="20231006063000 +0000" channel="channel_8">
+		<title>Aston Villa vs Zrinjski - Europa Conference League 2023/24 - MD2</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006063000 +0000" stop="20231006070000 +0000" channel="channel_8">
+		<title>Welcome to Qatar (#4) : Yazan Al Naimat – Mohammed Benyettou</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006070000 +0000" stop="20231006110000 +0000" channel="channel_8">
+		<title>Artistic Gymnastics - Women's  Individual and Team (Subdivision 1) Qualification &amp; Final - XIX Asian</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006110000 +0000" stop="20231006113000 +0000" channel="channel_8">
+		<title>From the World Ep.4</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006113000 +0000" stop="20231006120000 +0000" channel="channel_8">
+		<title>Archery Compound Team M Bronze Medal- XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006120000 +0000" stop="20231006123000 +0000" channel="channel_8">
+		<title>Archery Compound Team M Gold Medal- XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006123000 +0000" stop="20231006170000 +0000" channel="channel_8">
+		<title>Artistic Gymnastics - Women's  Individual and Team (Subdivision 2) - XIX Asian Games Hangzhou 2022 G</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006170000 +0000" stop="20231006173000 +0000" channel="channel_8">
+		<title>Welcome to Qatar (#4) : Yazan Al Naimat – Mohammed Benyettou</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006173000 +0000" stop="20231006191300 +0000" channel="channel_8">
+		<title>Internacional (BRA) vs Fluminense (BRA) - Copa Libertadores -2023 - Semi Finals 1st Leg</title>
+		<desc lang="ar">كأس ليبرتادوريس</desc>
+	</programme>
+	<programme start="20231006191300 +0000" stop="20231006210200 +0000" channel="channel_8">
+		<title>Ju-jitsu - M (62kg, 69kg) W (48kg) Bronze &amp; Gold Medals - XIX Asian Games Hangzhou 2022 JJI02</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006210200 +0000" stop="20231006013000 +0000" channel="channel_8">
+		<title>Artistic Gymnastics - Women's  Individual and Team (Subdivision 2) - XIX Asian Games Hangzhou 2022 G</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006235000 +0000" stop="20231006020000 +0000" channel="channel_9">
+		<title>Fiorentina vs Ferencváros - Europa Conference League 2023/24 - MD2</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006020000 +0000" stop="20231006023000 +0000" channel="channel_9">
+		<title>Daniil Medvedev vs Novak Djokovic - Final Mini Match Tennis US Open 20231</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006023000 +0000" stop="20231006030000 +0000" channel="channel_9">
+		<title>Sporting Greats - Mats Wilander</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006030000 +0000" stop="20231006033000 +0000" channel="channel_9">
+		<title>Do You Know "Next Generation" Brazil</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006033000 +0000" stop="20231006052000 +0000" channel="channel_9">
+		<title>Philip Sekulic (AUS) vs Lorenzo Sonego (ITA) - ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006052000 +0000" stop="20231006073000 +0000" channel="channel_9">
+		<title>Palmeiras (BRA) vs Boca Juniors (ARG) - Copa Libertadores -2023 - Semi Finals 2nd Leg</title>
+		<desc lang="ar">كأس ليبرتادوريس</desc>
+	</programme>
+	<programme start="20231006073000 +0000" stop="20231006080000 +0000" channel="channel_9">
+		<title>Coco Gauff (USA) vs Aryna Sabalenka - Women's Singal Final -  Mini Match Tennis US Open 20231</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006080000 +0000" stop="20231006084500 +0000" channel="channel_9">
+		<title>Daniil Medvedev vs Novak Djokovic - Final Mini Match Tennis US Open 20231</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006084500 +0000" stop="20231006093000 +0000" channel="channel_9">
+		<title>Gabriela Dabrowski/ Erin Routliffe vs Vera Zvonareva/ Laura Siegemund - Women's Doubles Final Mini M</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006093000 +0000" stop="20231006113000 +0000" channel="channel_9">
+		<title>Casper RUDD (NOR)  vs Yoshihto NISHIOKA (JPN) - ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006113000 +0000" stop="20231006133000 +0000" channel="channel_9">
+		<title>Brandon NAKASHIMA (USA) vs Holger RUNE (DEN) - ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006133000 +0000" stop="20231006153000 +0000" channel="channel_9">
+		<title>Sebastian KORDA (USA) vs Yunchaokete BU (CHN) - ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006153000 +0000" stop="20231006173000 +0000" channel="channel_9">
+		<title>Tomas Martin ETCHEVERRY (ARG) vs Zhizhen ZHANG (CHN)  - ATP 1000 2023 Rolex Shanghai Masters - Shang</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006173000 +0000" stop="20231006194500 +0000" channel="channel_9">
+		<title>Roman SAFIULLIN vs Alexander ZVEREV (GER) - ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006194500 +0000" stop="20231006220000 +0000" channel="channel_9">
+		<title>Hubert Hurkacz(EUR) vs Felix Auger-Aliassime (WLD) - Singles Match 12 - Tennis Laver Cup 2023</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006220000 +0000" stop="20231006000000 +0000" channel="channel_9">
+		<title>Casper RUDD (NOR)  vs Yoshihto NISHIOKA (JPN) - ATP 1000 2023 Rolex Shanghai Masters - Shanghai</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006235000 +0000" stop="20231006020000 +0000" channel="channel_10">
 		<title>PAOK vs Eintracht Frankfurt - Europa Conference League 2023/24 - MD2</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231005000000 +0500" stop="20231005010500 +0500" channel="channel_11">
-		<title>Squash Men's Singles Semifinal - XIX Asian Games Hangzhou 2022 SQU34</title>
+	<programme start="20231006020000 +0000" stop="20231006023000 +0000" channel="channel_10">
+		<title>NBA - Art of the Triple Double - NBA Original Programming 2019/2020</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006023000 +0000" stop="20231006030000 +0000" channel="channel_10">
+		<title>Top 100 Dunks Last Decade (2010 – 2019)</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006030000 +0000" stop="20231006050000 +0000" channel="channel_10">
+		<title>Dallas Mavericks vs Minnesota Timberwolves - NBA ABU DHABI GAMES - 2023</title>
+		<desc lang="ar">الدوري الأميركي لكرة السلة</desc>
+	</programme>
+	<programme start="20231006050000 +0000" stop="20231006060000 +0000" channel="channel_10">
+		<title>Secret of Success : Dr Mohammed Al Maahdheed</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006060000 +0000" stop="20231006073000 +0000" channel="channel_10">
+		<title>Canoe-Slalom CSL03 - C1 / K1 - M/W Semi-finals  - XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005010500 +0500" stop="20231005020000 +0500" channel="channel_11">
-		<title>The Olympic spirit -De Coubertin's vision</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005020000 +0500" stop="20231005025500 +0500" channel="channel_11">
-		<title>Hitting The Wall 2 - Fitness influencers Karina Elle and Carmen Morgan train like Olympians</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005025500 +0500" stop="20231005050000 +0500" channel="channel_11">
-		<title>Defensa y Justicia (ARG) vs L.D.U. Quito (ECU) - Copa Sudamericana 2023 - Semi Finals 2nd Leg</title>
-		<desc lang="ar">كأس أندية أميركا الجنوبية</desc>
-	</programme>
-	<programme start="20231005050000 +0500" stop="20231005064000 +0500" channel="channel_11">
-		<title>Hong Kong vs Japan - Water Polo - XIX Asian Games Hangzhou 2022</title>
+	<programme start="20231006073000 +0000" stop="20231006083000 +0000" channel="channel_10">
+		<title>Shooting -Rifle 3 Positions (Individual) Men's Final - Victory Ceremony - XIX Asian Games Hangzhou 2</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005064000 +0500" stop="20231005090000 +0500" channel="channel_11">
-		<title>Equestrian Jumping - 1st round, Team Comp. &amp; Individual Qual M/W - XIX Asian Games Hangzhou 2022 - E</title>
+	<programme start="20231006083000 +0000" stop="20231006090000 +0000" channel="channel_10">
+		<title>Welcome to Qatar (#4) : Yazan Al Naimat – Mohammed Benyettou</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006090000 +0000" stop="20231006110000 +0000" channel="channel_10">
+		<title>South Korea vs Japan  - Classification 7-8 - Basketball Men - XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005090000 +0500" stop="20231005110000 +0500" channel="channel_11">
-		<title>Defensa y Justicia (ARG) vs L.D.U. Quito (ECU) - Copa Sudamericana 2023 - Semi Finals 2nd Leg</title>
-		<desc lang="ar">كأس أندية أميركا الجنوبية</desc>
-	</programme>
-	<programme start="20231005110000 +0500" stop="20231005113000 +0500" channel="channel_11">
-		<title>The Olympic On The Record</title>
-		<desc lang="ar">ألعاب الأوليمبية</desc>
-	</programme>
-	<programme start="20231005113000 +0500" stop="20231005140000 +0500" channel="channel_11">
-		<title>North Korea vs South Korea - Women's Volleyball - XIX Asian Games Hangzhou 2022 VVO09</title>
+	<programme start="20231006110000 +0000" stop="20231006123000 +0000" channel="channel_10">
+		<title>Artistic Swimming Duet Technical Routine Women - XIX Asian Games Hangzhou 2022 SWA01</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005140000 +0500" stop="20231005150000 +0500" channel="channel_11">
-		<title>The Z Team: El Palomar Basketball Team</title>
+	<programme start="20231006123000 +0000" stop="20231006130000 +0000" channel="channel_10">
+		<title>Fast Zone 2023</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231005150000 +0500" stop="20231005153000 +0500" channel="channel_11">
-		<title>Hitting The Wall 2 - Can The Buff Dudes keep up with Olympic-level training</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005153000 +0500" stop="20231005160000 +0500" channel="channel_11">
-		<title>Anatomy of a mountain biker and a snowboarder</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005160000 +0500" stop="20231005173000 +0500" channel="channel_11">
-		<title>China vs Vietnam - Women's Volleyball - XIX Asian Games Hangzhou 2022 VVO09</title>
+	<programme start="20231006130000 +0000" stop="20231006150000 +0000" channel="channel_10">
+		<title>Chinese Taipei vs  China - Bronze medal - Basketball Men - XIX Asian Games Hangzhou 2022</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005173000 +0500" stop="20231005180000 +0500" channel="channel_11">
-		<title>The Olympic On The Record</title>
-		<desc lang="ar">ألعاب الأوليمبية</desc>
-	</programme>
-	<programme start="20231005180000 +0500" stop="20231005183000 +0500" channel="channel_11">
-		<title>The Tech Race</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005183000 +0500" stop="20231005192500 +0500" channel="channel_11">
-		<title>The Olympic spirit -De Coubertin's vision</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231005192500 +0500" stop="20231005211500 +0500" channel="channel_11">
-		<title>North Korea x South Korea - Basketball Women - XIX Asian Games Hangzhou 2022</title>
+	<programme start="20231006150000 +0000" stop="20231006160000 +0000" channel="channel_10">
+		<title>Shooting -Rifle 3 Positions (Individual) Men's Final - Victory Ceremony - XIX Asian Games Hangzhou 2</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005211500 +0500" stop="20231005220000 +0500" channel="channel_11">
-		<title>Hitting The Wall 2 - Fitness influencers Karina Elle and Carmen Morgan train like Olympians</title>
+	<programme start="20231006160000 +0000" stop="20231006163000 +0000" channel="channel_10">
+		<title>Welcome to Qatar (#4) : Yazan Al Naimat – Mohammed Benyettou</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231005220000 +0500" stop="20231005235500 +0500" channel="channel_11">
-		<title>China vs Vietnam - Women's Volleyball - XIX Asian Games Hangzhou 2022 VVO09</title>
+	<programme start="20231006163000 +0000" stop="20231006180000 +0000" channel="channel_10">
+		<title>Artistic Swimming Team Acrobatic Routine Mix - XIX Asian Games Hangzhou 2022 SWA02</title>
 		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
-	<programme start="20231005235500 +0500" stop="20231005020000 +0500" channel="channel_11">
+	<programme start="20231006180000 +0000" stop="20231006194500 +0000" channel="channel_10">
+		<title>KÍ Klaksvik vs Lille - Europa Conference League 2023/24 - MD2</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006194500 +0000" stop="20231006213000 +0000" channel="channel_10">
+		<title>PAOK vs Eintracht Frankfurt - Europa Conference League 2023/24 - MD2</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006213000 +0000" stop="20231006220000 +0000" channel="channel_10">
+		<title>Fast Zone 2023</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006220000 +0000" stop="20231006000000 +0000" channel="channel_10">
+		<title>Adana Demirspor vsTrabzonspor - Turkish Süper Lig 2023/2024 Week 8</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006235500 +0000" stop="20231006020300 +0000" channel="channel_11">
 		<title>Spartak Trnava vs Fenerbahçe - Europa Conference League 2023/24 - MD2</title>
 		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006020300 +0000" stop="20231006025600 +0000" channel="channel_11">
+		<title>The Olympic spirit -De Coubertin's vision</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006025600 +0000" stop="20231006032500 +0000" channel="channel_11">
+		<title>Hitting The Wall 2 - Fitness influencers Karina Elle and Carmen Morgan train like Olympians</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006032500 +0000" stop="20231006051100 +0000" channel="channel_11">
+		<title>Defensa y Justicia (ARG) vs L.D.U. Quito (ECU) - Copa Sudamericana 2023 - Semi Finals 2nd Leg</title>
+		<desc lang="ar">كأس أندية أميركا الجنوبية</desc>
+	</programme>
+	<programme start="20231006051100 +0000" stop="20231006073000 +0000" channel="channel_11">
+		<title>Spartak Trnava vs Fenerbahçe - Europa Conference League 2023/24 - MD2</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006073000 +0000" stop="20231006090000 +0000" channel="channel_11">
+		<title>Nepal x Hong Kong - Women's Volleyball - XIX Asian Games Hangzhou 2022 VVO12</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006090000 +0000" stop="20231006100000 +0000" channel="channel_11">
+		<title>The Z Team: Tuskers Volleyball Club</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006100000 +0000" stop="20231006110000 +0000" channel="channel_11">
+		<title>The Olympic spirit -De Coubertin's vision</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006110000 +0000" stop="20231006113000 +0000" channel="channel_11">
+		<title>Anatomy of an Ice Hockey Player and a Steeplechaser</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006113000 +0000" stop="20231006140000 +0000" channel="channel_11">
+		<title>Vietnam x Japan - Women's Volleyball - XIX Asian Games Hangzhou 2022 VVO12</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006140000 +0000" stop="20231006153000 +0000" channel="channel_11">
+		<title>Five Rings Film - The People's Fighter</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006153000 +0000" stop="20231006160000 +0000" channel="channel_11">
+		<title>Hitting The Wall 2 - Fitness influencers Kelsey Lee and DC Cutting train with Team GB Olympians</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006160000 +0000" stop="20231006183000 +0000" channel="channel_11">
+		<title>China x Thailand - Women's Volleyball - XIX Asian Games Hangzhou 2022 VVO12</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006183000 +0000" stop="20231006200000 +0000" channel="channel_11">
+		<title>Nepal x Hong Kong - Women's Volleyball - XIX Asian Games Hangzhou 2022 VVO12</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006200000 +0000" stop="20231006203000 +0000" channel="channel_11">
+		<title>Archery Recurve Team M Bronze Medal- XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006203000 +0000" stop="20231006210000 +0000" channel="channel_11">
+		<title>Archery Recurve Team M Gold Medal- XIX Asian Games Hangzhou 2022</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
+	</programme>
+	<programme start="20231006210000 +0000" stop="20231006220000 +0000" channel="channel_11">
+		<title>The Olympic spirit -De Coubertin's vision</title>
+		<desc lang="ar">الرياضة العام</desc>
+	</programme>
+	<programme start="20231006220000 +0000" stop="20231006234500 +0000" channel="channel_11">
+		<title>Aix vs Chartres - Handball French Stars League 20223/2024</title>
+		<desc lang="ar">الدوري الفرنسي لكرة اليد</desc>
+	</programme>
+	<programme start="20231006234500 +0000" stop="20231006021500 +0000" channel="channel_11">
+		<title>Vietnam x Japan - Women's Volleyball - XIX Asian Games Hangzhou 2022 VVO12</title>
+		<desc lang="ar">دورة الألعاب الآسيوية</desc>
 	</programme>
 </tv>
