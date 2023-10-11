@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Arabic EPG">
+<tv>
 	<channel id="channel_1">
 		<display-name>channel_1</display-name>
 		<icon src="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
@@ -44,283 +44,219 @@
 		<display-name>channel_11</display-name>
 		<icon src="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" />
 	</channel>
-	<programme start="202310101922 00" stop="20231010201500 " channel="channel_1">
-		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231010201500" stop="20231010220000 " channel="channel_1">
-		<title>Equestrian Jumping - 1st round, Individual Final M/W - XIX Asian Games Hangzhou 2022 - EQU09</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231010220000" stop="20231010233000 " channel="channel_1">
-		<title>Equestrian Jumping - 2nd round, Individual Final M/W - XIX Asian Games Hangzhou 2022 - EQU10</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231010233000" stop="20231011010000 " channel="channel_1">
-		<title>South Korea vs Japan  -Gold Medal - Handball Women - XIX Asian Games Hangzhou 2022 HBL23</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011010000" stop="20231011030000 " channel="channel_1">
-		<title>Bahrain vs Qatar - Gold Medal - Handball Men - XIX Asian Games Hangzhou 2022 HBL24</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011030000" stop="20231011033000 " channel="channel_1">
-		<title>beIN Action</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231011033000" stop="20231011044500 " channel="channel_1">
-		<title>M/W Canoe-Slalom - C1 / K1- Final - Canoe-Sprint - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011044500" stop="20231011061500 " channel="channel_1">
-		<title>Equestrian Jumping - 2nd round, Individual Final M/W - XIX Asian Games Hangzhou 2022 - EQU10</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011061500" stop="20231011080000 " channel="channel_1">
-		<title>+109kg Group A Final + Victory Ceremony - Weightlifting Men - XIX Asian Games Hangzhou 2022  WLF08</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011080000" stop="20231011094500 " channel="channel_1">
-		<title>Uzbekistan vs Hong Kong - Bronze Medal - Men's Football - XIX Asian Games Hangzhou 2022 FBL60</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011094500" stop="20231011114500 " channel="channel_1">
-		<title>South Korea vs Japan - Gold Medal - Men's Football - XIX Asian Games Hangzhou 2022 FBL61</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011114500" stop="20231011130000 " channel="channel_1">
-		<title>Squash Women's Singles Finals - XIX Asian Games Hangzhou 2022 SQU31</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011130000" stop="20231011140000 " channel="channel_1">
-		<title>Highlights - XIX Asian Games Hangzhou Harvest 2022</title>
-		<desc lang="ar">الرياضة العام</desc>
-	</programme>
-	<programme start="20231011140000" stop="20231011153000 " channel="channel_1">
-		<title>Cycling Road Men's Finals  Individual Time Trials - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011153000" stop="20231011193000 " channel="channel_1">
-		<title>Cycling Road Race Women's Final  - XIX Asian Games Hangzhou 2022</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231011193000" stop="20231011213000 " channel="channel_1">
-		<title>Weightlifting Men 61kg Group A Final - XIX Asian Games Hangzhou 2022 - WLF02</title>
-		<desc lang="ar">دورة الألعاب الآسيوية</desc>
-	</programme>
-	<programme start="20231010203000" stop="20231010210500 " channel="channel_3">
+		<programme start="20231010183000" stop="20231010190500 " channel="channel_3">
 		<title>Nasser Al Attiyah - Driven</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231010210500" stop="20231010220000 " channel="channel_3">
+	<programme start="20231010190500" stop="20231010200000 " channel="channel_3">
 		<title>EPL Review 2023/2024</title>
 		<desc lang="ar">حصيلة الدوريات</desc>
 	</programme>
-	<programme start="20231010220000" stop="20231010230000 " channel="channel_3">
+	<programme start="20231010200000" stop="20231010210000 " channel="channel_3">
 		<title>La Liga Highlights - Week 9</title>
 		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
 	</programme>
-	<programme start="20231010230000" stop="20231010233000 " channel="channel_3">
+	<programme start="20231010210000" stop="20231010213000 " channel="channel_3">
 		<title>This Is Paris 2023/2024</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231010233000" stop="20231010234500 " channel="channel_3">
+	<programme start="20231010213000" stop="20231010214500 " channel="channel_3">
 		<title>Do You Know - ASIAN CUP</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231010234500" stop="20231011000000 " channel="channel_3">
+	<programme start="20231010214500" stop="20231010220000 " channel="channel_3">
 		<title>Mohammed Salah : Record Breaker</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011000000" stop="20231011010000 " channel="channel_3">
+	<programme start="20231010220000" stop="20231010230000 " channel="channel_3">
 		<title>Ligue 1 Weekly Review - 2023/2024</title>
 		<desc lang="ar">حصيلة الدوريات</desc>
 	</programme>
-	<programme start="20231011010000" stop="20231011020000 " channel="channel_3">
+	<programme start="20231010230000" stop="20231011000000 " channel="channel_3">
 		<title>Bundesliga EP7 - Review 2023/2024</title>
 		<desc lang="ar">الدوري الألماني لكرة اليد</desc>
 	</programme>
-	<programme start="20231011020000" stop="20231011023000 " channel="channel_3">
+	<programme start="20231011000000" stop="20231011003000 " channel="channel_3">
 		<title>UEFA UCL Magazine 2023/2024 - MD2 Review</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011023000" stop="20231011033000 " channel="channel_3">
+	<programme start="20231011003000" stop="20231011013000 " channel="channel_3">
 		<title>La Liga Highlights - Week 9</title>
 		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
 	</programme>
-	<programme start="20231011033000" stop="20231011042500 " channel="channel_3">
+	<programme start="20231011013000" stop="20231011022500 " channel="channel_3">
 		<title>EPL Review 2023/2024</title>
 		<desc lang="ar">حصيلة الدوريات</desc>
 	</programme>
-	<programme start="20231011042500" stop="20231011045600 " channel="channel_3">
+	<programme start="20231011022500" stop="20231011025600 " channel="channel_3">
 		<title>Nasser Al Attiyah - Driven</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011045600" stop="20231011053000 " channel="channel_3">
+	<programme start="20231011025600" stop="20231011033000 " channel="channel_3">
 		<title>Nasser Al Attiyah - Driven</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011053000" stop="20231011071500 " channel="channel_3">
+	<programme start="20231011033000" stop="20231011051500 " channel="channel_3">
 		<title>Brighton &amp; Hove Albion vs Liverpool - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011071500" stop="20231011090000 " channel="channel_3">
+	<programme start="20231011051500" stop="20231011070000 " channel="channel_3">
 		<title>Arsenal vs Manchester City - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011090000" stop="20231011091500 " channel="channel_3">
+	<programme start="20231011070000" stop="20231011071500 " channel="channel_3">
 		<title>Do You Know - ASIAN CUP</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011091500" stop="20231011093000 " channel="channel_3">
+	<programme start="20231011071500" stop="20231011073000 " channel="channel_3">
 		<title>Mohammed Salah : Record Breaker</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011093000" stop="20231011110800 " channel="channel_3">
+	<programme start="20231011073000" stop="20231011090800 " channel="channel_3">
 		<title>Real Madrid vs Osasuna - LaLiga 2023/2024 Week 9</title>
 		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
 	</programme>
-	<programme start="20231011110800" stop="20231011125700 " channel="channel_3">
+	<programme start="20231011090800" stop="20231011105700 " channel="channel_3">
 		<title>Granada vs Barcelona - LaLiga 2023/2024 Week 9</title>
 		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
 	</programme>
-	<programme start="20231011125700" stop="20231011132600 " channel="channel_3">
+	<programme start="20231011105700" stop="20231011112600 " channel="channel_3">
 		<title>Nasser Al Attiyah - Driven</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011132600" stop="20231011140000 " channel="channel_3">
+	<programme start="20231011112600" stop="20231011120000 " channel="channel_3">
 		<title>Nasser Al Attiyah - Driven</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011140000" stop="20231011154700 " channel="channel_3">
+	<programme start="20231011120000" stop="20231011134700 " channel="channel_3">
 		<title>Luton Town vs Tottenham - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011154700" stop="20231011173100 " channel="channel_3">
+	<programme start="20231011134700" stop="20231011153100 " channel="channel_3">
 		<title>Manchester United vs Brentford - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011173100" stop="20231011174500 " channel="channel_3">
+	<programme start="20231011153100" stop="20231011154500 " channel="channel_3">
 		<title>Do You Know - ASIAN CUP</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011174500" stop="20231011180000 " channel="channel_3">
+	<programme start="20231011154500" stop="20231011160000 " channel="channel_3">
 		<title>The Confrontation- With or without VAR ?</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011180000" stop="20231011182900 " channel="channel_3">
+	<programme start="20231011160000" stop="20231011162900 " channel="channel_3">
 		<title>Nasser Al Attiyah - Driven</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011182900" stop="20231011190300 " channel="channel_3">
+	<programme start="20231011162900" stop="20231011170300 " channel="channel_3">
 		<title>Nasser Al Attiyah - Driven</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011190300" stop="20231011193200 " channel="channel_3">
+	<programme start="20231011170300" stop="20231011173200 " channel="channel_3">
 		<title>Nasser Al Attiyah - Driven</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011193200" stop="20231011200600 " channel="channel_3">
+	<programme start="20231011173200" stop="20231011180600 " channel="channel_3">
 		<title>Nasser Al Attiyah - Driven</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011200600" stop="20231011203500 " channel="channel_3">
+	<programme start="20231011180600" stop="20231011183500 " channel="channel_3">
 		<title>La Liga World - Ep.10</title>
 		<desc lang="ar">الدوري الإسباني لكرة القدم</desc>
 	</programme>
-	<programme start="20231011203500" stop="20231011210500 " channel="channel_3">
+	<programme start="20231011183500" stop="20231011190500 " channel="channel_3">
 		<title>EPL Netbusters 2023/2024</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231010204000" stop="20231010210600 " channel="channel_4">
+	<programme start="20231010184000" stop="20231010190600 " channel="channel_4">
 		<title>Brighton vs Liverpool - Mini Match - English Premier League 2023/24</title>
 		<desc lang="ar">مباريات قصيرة</desc>
 	</programme>
-	<programme start="20231010210600" stop="20231010213300 " channel="channel_4">
+	<programme start="20231010190600" stop="20231010193300 " channel="channel_4">
 		<title>West Ham vs Newcastle - Mini Match - English Premier League 2023/24</title>
 		<desc lang="ar">مباريات قصيرة</desc>
 	</programme>
-	<programme start="20231010213300" stop="20231010220000 " channel="channel_4">
+	<programme start="20231010193300" stop="20231010200000 " channel="channel_4">
 		<title>EPL Stories 2023/24</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231010220000" stop="20231010230000 " channel="channel_4">
+	<programme start="20231010200000" stop="20231010210000 " channel="channel_4">
 		<title>EPL Review 2023/2024</title>
 		<desc lang="ar">حصيلة الدوريات</desc>
 	</programme>
-	<programme start="20231010230000" stop="20231010232800 " channel="channel_4">
+	<programme start="20231010210000" stop="20231010212800 " channel="channel_4">
 		<title>Gary Neville's Soccerbox - Thierry Henry</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231010232800" stop="20231011011400 " channel="channel_4">
+	<programme start="20231010212800" stop="20231010231400 " channel="channel_4">
 		<title>Fulham vs Sheffield United - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011011400" stop="20231011030500 " channel="channel_4">
+	<programme start="20231010231400" stop="20231011010500 " channel="channel_4">
 		<title>Everton vs AFC Bournemouth - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011030500" stop="20231011033100 " channel="channel_4">
+	<programme start="20231011010500" stop="20231011013100 " channel="channel_4">
 		<title>Brighton vs Liverpool - Mini Match - English Premier League 2023/24</title>
 		<desc lang="ar">مباريات قصيرة</desc>
 	</programme>
-	<programme start="20231011033100" stop="20231011051900 " channel="channel_4">
+	<programme start="20231011013100" stop="20231011031900 " channel="channel_4">
 		<title>Burnley vs Chelsea - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011051900" stop="20231011070300 " channel="channel_4">
+	<programme start="20231011031900" stop="20231011050300 " channel="channel_4">
 		<title>Manchester United vs Brentford - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011070300" stop="20231011073000 " channel="channel_4">
+	<programme start="20231011050300" stop="20231011053000 " channel="channel_4">
 		<title>West Ham vs Newcastle - Mini Match - English Premier League 2023/24</title>
 		<desc lang="ar">مباريات قصيرة</desc>
 	</programme>
-	<programme start="20231011073000" stop="20231011091500 " channel="channel_4">
+	<programme start="20231011053000" stop="20231011071500 " channel="channel_4">
 		<title>Leeds Utd vs Bristol City - EFL - English Football League - Championship 2023/24</title>
 		<desc lang="ar">دوري البطولة الإنجليزية - الدرجة الأولى</desc>
 	</programme>
-	<programme start="20231011091500" stop="20231011110000 " channel="channel_4">
+	<programme start="20231011071500" stop="20231011090000 " channel="channel_4">
 		<title>Burton Albion vs Cambridge Utd - EFL - English Football League One - Championship 2023/24</title>
 		<desc lang="ar">الدوري الإنجليزي الدرجة الثانية</desc>
 	</programme>
-	<programme start="20231011110000" stop="20231011112800 " channel="channel_4">
+	<programme start="20231011090000" stop="20231011092800 " channel="channel_4">
 		<title>Gary Neville's Soccerbox - Thierry Henry</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011112800" stop="20231011131700 " channel="channel_4">
+	<programme start="20231011092800" stop="20231011111700 " channel="channel_4">
 		<title>West Ham United vs Newcastle United - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011131700" stop="20231011151000 " channel="channel_4">
+	<programme start="20231011111700" stop="20231011131000 " channel="channel_4">
 		<title>Wolverhampton vs Aston Villa - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011151000" stop="20231011153800 " channel="channel_4">
+	<programme start="20231011131000" stop="20231011133800 " channel="channel_4">
 		<title>EPL World 100 - Alan Shearer</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011153800" stop="20231011172300 " channel="channel_4">
+	<programme start="20231011133800" stop="20231011152300 " channel="channel_4">
 		<title>Crystal Palace  vs Nottingham Forest - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011172300" stop="20231011191000 " channel="channel_4">
+	<programme start="20231011152300" stop="20231011171000 " channel="channel_4">
 		<title>Luton Town vs Tottenham - English Premier League 2023/2024 Week 8</title>
 		<desc lang="ar">الدوري الإنجليزي الممتاز</desc>
 	</programme>
-	<programme start="20231011191000" stop="20231011193700 " channel="channel_4">
+	<programme start="20231011171000" stop="20231011173700 " channel="channel_4">
 		<title>Sunderland vs Middlesbrough - Mini Match - EFL 2023/24</title>
 		<desc lang="ar">مباريات قصيرة</desc>
 	</programme>
-	<programme start="20231011193700" stop="20231011200500 " channel="channel_4">
+	<programme start="20231011173700" stop="20231011180500 " channel="channel_4">
 		<title>Leeds vs Bristol City - Mini Match - EFL 2023/24</title>
 		<desc lang="ar">مباريات قصيرة</desc>
 	</programme>
-	<programme start="20231011200500" stop="20231011203500 " channel="channel_4">
+	<programme start="20231011180500" stop="20231011183500 " channel="channel_4">
 		<title>EPL Stories 2023/24</title>
 		<desc lang="ar">الرياضة العام</desc>
 	</programme>
-	<programme start="20231011203500" stop="20231011230000 " channel="channel_4">
+	<programme start="20231011183500" stop="20231011210000 " channel="channel_4">
 		<title>Wales vs Gibraltar - International Football Friendly 2023</title>
 		<desc lang="ar">كرة قدم</desc>
 	</programme>
